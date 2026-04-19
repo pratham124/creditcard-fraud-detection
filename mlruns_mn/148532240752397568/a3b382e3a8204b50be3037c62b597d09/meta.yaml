@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Projects/creditcard-fraud-detection/notebooks/../mlruns_mn/148532240752397568/a3b382e3a8204b50be3037c62b597d09/artifacts
+end_time: 1776279555882
+entry_point_name: ''
+experiment_id: '148532240752397568'
+lifecycle_stage: active
+run_id: a3b382e3a8204b50be3037c62b597d09
+run_name: selective-fish-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776279433939
+status: 3
+tags: []
+user_id: matth

@@ -1,0 +1,8 @@
+artifact_location: file:D:/Projects/creditcard-fraud-detection/notebooks/../mlruns_mn/148532240752397568
+creation_time: 1776234061153
+experiment_id: '148532240752397568'
+last_update_time: 1776234061153
+lifecycle_stage: active
+name: credit-card-fraud-detection
+trace_location: null
+workspace: default

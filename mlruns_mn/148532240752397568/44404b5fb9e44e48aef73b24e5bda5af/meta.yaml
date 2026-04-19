@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Projects/creditcard-fraud-detection/notebooks/../mlruns_mn/148532240752397568/44404b5fb9e44e48aef73b24e5bda5af/artifacts
+end_time: 1776565812218
+entry_point_name: ''
+experiment_id: '148532240752397568'
+lifecycle_stage: active
+run_id: 44404b5fb9e44e48aef73b24e5bda5af
+run_name: luxuriant-hen-717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776565808696
+status: 3
+tags: []
+user_id: matth

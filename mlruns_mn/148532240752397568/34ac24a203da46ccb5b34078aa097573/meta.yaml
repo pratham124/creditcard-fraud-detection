@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Projects/creditcard-fraud-detection/notebooks/../mlruns_mn/148532240752397568/34ac24a203da46ccb5b34078aa097573/artifacts
+end_time: 1776278965332
+entry_point_name: ''
+experiment_id: '148532240752397568'
+lifecycle_stage: active
+run_id: 34ac24a203da46ccb5b34078aa097573
+run_name: traveling-fawn-414
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776235956553
+status: 3
+tags: []
+user_id: matth

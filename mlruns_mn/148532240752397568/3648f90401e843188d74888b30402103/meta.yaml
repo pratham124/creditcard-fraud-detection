@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Projects/creditcard-fraud-detection/notebooks/../mlruns_mn/148532240752397568/3648f90401e843188d74888b30402103/artifacts
+end_time: 1776561856808
+entry_point_name: ''
+experiment_id: '148532240752397568'
+lifecycle_stage: active
+run_id: 3648f90401e843188d74888b30402103
+run_name: grandiose-snipe-951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776561854496
+status: 3
+tags: []
+user_id: matth

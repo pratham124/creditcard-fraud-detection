@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Projects/creditcard-fraud-detection/notebooks/../mlruns_mn/148532240752397568/8607180740f1433495b28ff6019f6ffe/artifacts
+end_time: 1776279418286
+entry_point_name: ''
+experiment_id: '148532240752397568'
+lifecycle_stage: active
+run_id: 8607180740f1433495b28ff6019f6ffe
+run_name: marvelous-yak-272
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776279298312
+status: 3
+tags: []
+user_id: matth

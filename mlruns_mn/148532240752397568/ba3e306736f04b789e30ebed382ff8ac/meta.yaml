@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Projects/creditcard-fraud-detection/notebooks/../mlruns_mn/148532240752397568/ba3e306736f04b789e30ebed382ff8ac/artifacts
+end_time: 1776564836356
+entry_point_name: ''
+experiment_id: '148532240752397568'
+lifecycle_stage: active
+run_id: ba3e306736f04b789e30ebed382ff8ac
+run_name: awesome-fly-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776564833140
+status: 3
+tags: []
+user_id: matth
