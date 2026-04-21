@@ -1,0 +1,8 @@
+artifact_location: file:D:/Projects/worktree/ml-method/notebooks/../mlruns_mn/998961601855153942
+creation_time: 1776809767026
+experiment_id: '998961601855153942'
+last_update_time: 1776809767026
+lifecycle_stage: active
+name: credit-card-fraud-detection_ml-method
+trace_location: null
+workspace: default

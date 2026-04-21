@@ -1,0 +1,14 @@
+artifact_uri: file:D:/Projects/worktree/ml-method/notebooks/../mlruns_mn/998961601855153942/566627d473b94be5b259a447d3f5e6ff/artifacts
+end_time: 1776810175908
+entry_point_name: ''
+experiment_id: '998961601855153942'
+lifecycle_stage: active
+run_id: 566627d473b94be5b259a447d3f5e6ff
+run_name: isolation_forest_n100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776810165521
+status: 3
+tags: []
+user_id: matth
