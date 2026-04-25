@@ -1,0 +1,1 @@
+pandoc .\discussion.md -o discussion.pdf -V geometry:top=0.5in -V geometry:bottom=0.5in -V geometry:left=0.75in -V geometry:right=0.75in
